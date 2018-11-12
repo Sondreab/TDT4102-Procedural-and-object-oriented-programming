@@ -1,0 +1,3 @@
+Dette er en test
+for aa se om funksjonen som skal telle
+ord i en fil faktisk klarer dette!

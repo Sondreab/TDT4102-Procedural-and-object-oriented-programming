@@ -1,0 +1,7 @@
+1	hei
+2	paa
+3	deg
+4	my
+5	man
+6	exit
+7	
